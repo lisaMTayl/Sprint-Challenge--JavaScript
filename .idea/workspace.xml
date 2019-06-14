@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55f17bfc-c312-4c95-ad17-66df3f45b383" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/challenges/objects-arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/challenges/objects-arrays.js" afterDir="false" />
-    </list>
+    <list default="true" id="55f17bfc-c312-4c95-ad17-66df3f45b383" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/challenges/objects-arrays.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="76" selection-start-line="76" selection-end-line="79" selection-end-column="3" />
+            <state relative-caret-position="466">
+              <caret line="88" column="25" lean-forward="true" selection-start-line="88" selection-start-column="25" selection-end-line="88" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -46,6 +44,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1920" />
+    <option name="y" value="1080" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -109,15 +109,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560524414322</updated>
-      <workItem from="1560524415738" duration="2492000" />
+      <workItem from="1560524415738" duration="2771000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2492000" />
+    <option name="totallyTimeSpent" value="2771000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="1920" y="1080" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -157,8 +157,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/challenges/objects-arrays.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="76" selection-start-line="76" selection-end-line="79" selection-end-column="3" />
+        <state relative-caret-position="466">
+          <caret line="88" column="25" lean-forward="true" selection-start-line="88" selection-start-column="25" selection-end-line="88" selection-end-column="25" />
         </state>
       </provider>
     </entry>

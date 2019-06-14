@@ -78,6 +78,7 @@ const universities = [];
 universities = graduates.map(function(currentValue) {
     return (currentValue.university);
 });
+universities = universities.sort();
 
 /* Request 2: Create a new array called contactInfo that contains both first name and email of each student. 
 
